@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LeloDev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me smurfderustyk@gmail or @KiddRustyk (Twitter)
